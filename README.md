@@ -8,6 +8,8 @@
 
 ⌨️ J'utilise VS code quand cela est possible, sinon j'utilise Eclipse et Atom
 
+✏️ Je realise tout mes logos avec InkScape (Linux) ou Affinity Designer (Windows)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stereo18&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stereo18&layout=compact)
