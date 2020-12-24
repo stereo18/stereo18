@@ -1,11 +1,6 @@
 ### Hey toi ! 👋
 
-<style>
-  img {
-  flex: 33.33%;
-  padding: 5px;
-}
-</style>
+<style>  img {  flex: 33.33%;}</style>
 
 <img src="https://github-readme-stats.vercel.app/api?username=stereo18&count_private=true" style="display:flex; float: left;" width="50%">
 
