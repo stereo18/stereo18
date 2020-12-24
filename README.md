@@ -4,3 +4,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stereo18&layout=compact" style="display:flex; float: left; text-align:right;" width="45%">
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stereo18)]
