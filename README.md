@@ -1,4 +1,6 @@
-### Hey toi ! 👋
+# Hey toi ! 👋
+
+### A propos de moi :
 
 💪 Je dev du JS, du HTML, du CSS, un soupson de PHP et essaye d'apprendre d'autres languages 
 
