@@ -6,7 +6,7 @@
 
 🍵 Je ne suis pas très pénible en carburant, café, voir café au lait, plus de la musique retro ou autre et un pc !
 
-🖥️ Avec PowerBuntu (distro maison basée sur Ubuntu LTS 20.04° actuellement et Linux Mint xfce LTS 18.04
+🖥️ Avec PowerBuntu (distro maison basée sur Ubuntu LTS 20.04) actuellement et Linux Mint xfce LTS 18.04
 
 ⌨️ J'utilise VS code quand cela est possible, sinon j'utilise Eclipse et Atom
 
